@@ -1,26 +1,69 @@
-[**Źródło: http://ktg.pttk.pl/index.php?mod=news&act=showfull&id=1185709454**](http://ktg.pttk.pl/index.php?mod=news&act=showfull&id=1185709454)
+[**Źródło: http://ktg.pttk.pl/index.php?mod=news&act=showfull&id=1397297449**](http://ktg.pttk.pl/index.php?mod=news&act=showfull&id=1397297449)
 
-# Wykaz punktów pośrednich dla wycieczek wielodniowych na duże stopnie GOT
+# Wykaz punktów początkowych, pośrednich i końcowych dla regulaminowych wycieczek wielodniowych na duże stopnie GOT PTTK
 
-*Wykaz punktów pośrednich obowiązujących do 31 grudnia 2013 roku.*
+## I. Beskidy – część zachodnia „BZ–A”
 
-## Beskidy Zachodnie (Grupy: BZ.01-04, BZ.07, BZ.10)
-Soszów Wielki (866 m), Orłowa (766 m), Kotarz (965 m), Trzy Kopce Wiślańskie (810 m), Smerekowiec (882 m), Barania Góra (1220 m), Skrzyczne (1257 m), Klimczok (1117 m), Mała Zabawa (797 m), Wielka Zabawa (824 m), Magura pod Wielką Raczą (1073 m),Wielka Racza (1234 m), Prz.Przegibek (1000 m), Krawców Wierch (1064 m), Romanka (1366 m), Pilsko szczyt polski (1540 m), Jałowiec (1111 m), Babia Góra (1725 m), Hala Krupowa (1152 m), Beskidy (769 m), Żeleźnica (912 m), Pająków Wierch (934 m), Magurka Wilkowicka (909 m), Hrobacza Łąka (828 m), Łamana Skała (929 m), Groń Jana Pawła II (890 m), Solniska (849 m), Babica (734 m), Polana Gronie (809 m). Chełm wschodni (581 m), Koskowa Góra (866 m), Kotoń Zachodni (772 m), Schr.PTTK Kudłacze (730 m), Bukowiec nad Rudnikiem (Lisia Góra) (438 m), Draboż (435 m).
+Punkty początkowe:
+- Goleszów, Ustroń, Skoczów, Jaworze.
 
-## Beskidy Zachodnie (Grupy: BZ.05-06, BZ.08-BZ-09, BZ.11-BZ.13)
-Łysina (898 m), Działek (600 m), Maciejowa (815 m), Turbacz (1310 m), Kudłoń (1276 m), Gorc (1228 m), Lubań (1211 m), Luboń Wielki (1022 m), Lubogoszcz (968 m), Jasień (1062 m), Śnieżnica (1007 m), Ćwilin (1072 m), Kostrza (730 m), Kamionna (802 m), Modyń (1029 m), Sałasz (909 m), Dzwonkówka 983 m), Przehyba (1175 m), Radziejowa (1262 m), Wielki Rogacz (1182 m), Obidza (930 m), Makowica (948 m), Jaworzyna Krynicka (1114 m), Dubne (904 m), Malnik (726 m), Dursztyn (550 m), Prz.Szopka (780 m), Szafranówka (742 m), Wysoka (Wysokie Skałki) (1050 m), Paprotna (450 m), Wał nad Tarnowem (526 m), Sucha Góra nad Gromnikiem (365 m), Jamna (530 m), Brzanka (536 m), Liwocz (561 m), Skamieniałe Miasto (360 m).
+Punkty pośrednie (w nawiasach wysokości w m n.p.m.):
+- Soszów Wielki (885), Orłowa (813), Kotarz (985), Barania Góra (1220), Mała Zabawa (798), Magura pod Wielką Raczą (1073), Krawców Wierch (1084), Romanka (1366), Jałowiec (1111), Babia Góra (1725), Hala Krupowa (1170), Pająków Wierch (934), Hrobacza Łąka (828), Łamana Skała (929), Babica (728), Polana Gronie (810), Koskowa Góra (866).
 
-## Beskidy Wschodnie (Grupy: BW.01, BW.03)
-Prz. pod Uboczem (720 m), Sucha Homola (706 m), Lackowa (998 m), Magura Małastowska (813 m), Bartne, Magura Wątkowska (847 m), Polana nad Kątami, Polany koło Krempnej, Jaworzyna Konieczniańska (881 m), Krempna (400 m), Nad Tysowym (713 m), Pustelnia Św.Jana (600 m), Kamień nad Jaśliskami (831 m), Kamień nad Komańczą (717 m), Danawa (640 m), Sucha Góra (Przymiarki) (603 m), prz. pod Tokarnią (760 m), Kanasiówka (823 m), Brzanka (536 m), Gilowa Góra (523 m), Liwocz (567 m), Klonowa Góra (525 m), Wilcze (510 m), Kopacz (536 m), Wroczeń (497 m).
+Punkty końcowe:
+- Myślenice, Pcim, Lubień, Jordanów, Rabka Zdrój, Przełęcz Sieniawska.
 
-## Beskidy Wschodnie (Grupy: BW.02, BW.04)
-Gruszka (583 m), prz.nad Roztokami Górnymi (801 m), Chryszczata (998 m), Suliła (759 m), Rydoszowa ( 880 m), Hyrlata (1103 m), Durna (979 m), Okrąglik (1101 m), Łopiennik (1069 m), Rabia Skała (1199 m), Krysowa (840 m), Markowska (748 m), Połonina Wetlińska (1253 m), Połonina Caryńska (1297 m), Tarnica (1348 m), Magura Stuposiańska (1016 m), Wielka Rawka (1303 m), Prz.Bukowska (1107 m), Trohaniec (938 m), Hulskie (846 m), Żuków (724 m), Orli Kmień (518 m), Kamienna Laworta (769 m), Truszowskie (677 m), Suchy Obycz (618 m), Kopystańka (541 m).
+## II. Beskidy – część zachodnia „BZ–B”
 
-## Sudety (Grupy: S.01-S.10, S.19)
-Stóg Izerski (1107 m), Sępia Góra (828 m), Grodziszcze (429 m), zamek Gryf, zamek Czocha, Grodziec (389 m), Ostrzyca (501 m), Rosocha (464 m), Jezioro Modre (schr "Perła Zachodu"), zamek Chojnik (627 m), Śnieżka (1603 m), Przełęcz Okraj (1046 m), Okole (721 m), Różanka (628 m), Skalnik (945 m), Zadzierna (724 m), Lesista Wielka (851 m), Przełęcz Trzech Dolin (schr "Andrzejówka"-810 m), Trójgarb (778 m), zamek Książ, Góra Św. Jerzego (353 m).
+Punkty początkowe:
+- Myślenice, Pcim, Lubień, Jordanów, Rabka Zdrój, Przełęcz Sieniawska, Nowy Targ.
 
-## Sudety (Grupy: S.11-S.21, bez S.19)
-Ślęża (719 m), Włodarz (811 m), Przełęcz Jugowska (805 m), Wilczak (637 m), Ptasznik (719 m), Góra Św. Anny (647 m), Sowie Skały (730 m), Błędne Skały (851 m), Grodziec (803 m), Zieleniec, Łomnicka Równia (ok. 850 m), Jagodna (977 m), Hala pod Śnieżnikiem (1200 m), Czarna Góra (1205 m), Przełęcz Płoszczyna (817 m), Czernica (1083 m), Borówkowa (900m), Biskupia Kopa (890 m), Wzgórze Klasztorne (316 m), Kozie Chrzepty (492 m), Gromnik (393 m), Uroczysko pod Czechami (318 m).
+Punkty pośrednie:
+- Łysina (891), Kudłoń (1276), Gorc (1228), Lubogoszcz (968), Ćwilin (1072), Kobyła (605), Kostrza (720), Modyń (1029), Sałasz (905), Radziejowa (1266), Jaworzyna Krynicka (1114), Pusta Wielka (1061), Dubne (904), Przełęcz Szopka (780), Wysoka (Wysokie Skałki, 1050), Wał nad Tarnowem (523), Bukowiec (530).
 
-## Góry Świętokrzyskie
-Sowia Góra , Altana (408 m), Świnia Góra (353 m), Buczyna (337 m), Zelejowa (372 m), Patrol (389 m), Telegraf (406 m), Siniewska (444 m), Miedzianka, Łysica (612 m) Grodowa (399 m), Otrocz (372 m), Łysiec (Św.Krzyż) (595 m), Szczytniak (554 m), Kiełków.
+Punkty końcowe:
+- Tarnów, Ciężkowice, Bobowa, Stróże, Grybów, Florynka, Tylicz, Leluchów.
+
+## III. Beskidy – część wschodnia „BW–A”
+
+Punkty początkowe:
+- Tarnów, Ciężkowice, Bobowa, Stróże, Grybów, Florynka, Tylicz, Leluchów.
+
+Punkty pośrednie:
+- Sucha Homola (708), Lackowa (997), Magura Małastowska (813), Polana nad Kątami (651), Jaworzyna Konieczniańska (881), Baranie (754), Pustelnia św. Jana, Sucha Góra nad Iwoniczem Zdrojem (611), Piotruś (728), Kamień nad Jaśliskami – szczyt południowy (828), Tokarnia (778), Kanasiówka (823), Brzanka (536), Liwocz (567), Klonowa Góra (525), Wilcze (510), Kopacz (536).
+
+Punkty końcowe:
+- Mrzygłód, Sanok, Rzepedź, Komańcza, Nowy Łupków.
+
+## IV. Beskidy – część wschodnia „BW–B”
+
+Punkty początkowe:
+- Mrzygłód, Sanok, Rzepedź, Komańcza, Nowy Łupków.
+
+Punkty pośrednie:
+- Suliła (759), Rydoszowa (880), Hyrlata (1103), Durna (979), Okrąglik (1101), Rabia Skała (1192), Krysowa (847), Markowska (748), Połonina Wetlińska (1255), Połonina Caryńska (1297), Tarnica (1346), Halicz (1333), Hulskie (846), Jaworniki (909), Orli Kamień (518), Poręba Wysoka (618), Kopystańka (541).
+
+Punkty końcowe:
+- Przemyśl, Ustrzyki Dolne, Lutowiska, Wołosate.
+
+## V. Sudety – część „S–A”
+
+Punkty początkowe:
+- Lubań, Leśna, Gryfów Śląski, Świeradów Zdrój, Jakuszyce.
+
+Punkty pośrednie:
+- Sępia Góra (828), Zamek Czocha, Wysoki Kamień (1058), Ostrzyca (501), Rosocha (464), Jezioro Modre (schronisko PTTK „Perła Zachodu”), Zamek Chojnik (624), Śnieżka (1602), Przełęcz Okraj (1046), Schronisko PTTK „Szwajcarka” (520), Okole (714), Turzec (684), Skalnik (945), Zadzierna (724), Lesista Wielka (851), Przełęcz Trzech Dolin (schronisko „Andrzejówka”, 799), Trójgarb (778), Zamek Książ.
+
+Punkty końcowe:
+- Złotoryja, Bolków, Świebodzice, Wałbrzych, Głuszyca.
+
+## VI. Sudety – część „S–B”
+
+Punkty początkowe:
+- Strzelin, Sobótka, Świebodzice, Wałbrzych, Głuszyca.
+
+Punkty pośrednie:
+- Ślęża (718), Gromnik (393), Góra Wapienna – rez, Skałki Stoleckie (398), Włodarz (811), Przełęcz Jugowska (800), Wilczak (633), Ptasznik (719), Góra św. Anny (647), Skały Puchacza (Sowie Skały, 742), Błędne Skały (843), Grodczyn (Grodziec, 803), Zieleniec, Łomnicka Równia (899), Jagodna (977), Hala pod Śnieżnikiem (1213), Trójmorski Wierch (1145), Czarna Góra (1205), Przełęcz Płoszczyna (817), Czernica (1083), Parkowa Góra (543), Biskupia Kopa (891).
+
+Punkty końcowe:
+- Międzylesie, Stronie Śląskie, Lądek Zdrój, Złoty Stok, Prudnik.

@@ -1,86 +1,133 @@
-[**Źródło: http://ktg.pttk.pl/index.php?mod=news&act=showfull&id=1397297449**](http://ktg.pttk.pl/index.php?mod=news&act=showfull&id=1397297449)
+[**Źródło: http://ktg.pttk.pl/index.php?mod=news&act=showfull&id=1449249612**](http://ktg.pttk.pl/index.php?mod=news&act=showfull&id=1449249612)
 
-# Regulamin GOT PTTK - obowiązujący od 1 stycznia 2014 roku 
+# Regulamin GOT PTTK - obowiązujący od 1 stycznia 2016 roku 
 
-*Znowelizowany i obowiązujący od 1 stycznia 2014 roku tekst Regulaminu GOT.*
+*Znowelizowany i obowiązujący od 1 stycznia 2016 roku tekst Regulaminu GOT.*
 
-*Dla informacji: Znowelizowany tekst został zatwierdzony przez KTG ZG w dniu 12 października 2013 roku. Następnie Prezydium Zarządu Głównego zatwierdziło Uchwałą nr 8/XVIII/2013 w dniu 13 grudnia 2013.*
-
-*W lutym 2014 roku zostały doprecyzowane "Przepisy przejściowe" i "Wykaz punktów wyjściowych, pośrednich i końcowych (...)" w części dotyczącej Sudetów.*
+*Znowelizowany tekst regulaminu GOT został zatwierdzony przez Komisję Turystyki Górskiej ZG PTTK oraz przez Prezydium Zarządu Głównego PTTK.*
 
 ## Regulamin Górskiej Odznaki Turystycznej PTTK
 
-### § 1.
+### I. PRZEPISY OGÓLNE
 
-Polskie Towarzystwo Turystyczno-Krajoznawcze, spadkobierca i kontynuator Polskiego Towarzystwa Tatrzańskiego, ustala niniejszym regulaminem zasady zdobywania ustanowionej w 1935 roku Górskiej Odznaki Turystycznej. W dalszej części regulaminu używany jest aktualny skrót nazwy odznaki: GOT PTTK.
+#### § 1.
 
-### § 2.
+Polskie Towarzystwo Turystyczno-Krajoznawcze, spadkobierca i kontynuator Polskiego Towarzystwa Tatrzańskiego, ustala niniejszym regulaminem zasady zdobywania ustanowionej w roku 1935 Górskiej Odznaki Turystycznej, zwanej w dalszej części regulaminu GOT PTTK.
 
-Nadzór nad instytucją GOT PTTK sprawuje Komisja Turystyki Górskiej Zarządu Głównego Polskiego Towarzystwa Turystyczno Krajoznawczego.
+#### § 2.
 
-### § 3.
+Celem GOT PTTK jest zachęcanie zdobywających odznakę do systematycznego poznawania gór polskich oraz do zapoznania się z terenami sudeckimi i karpackimi w krajach sąsiadujących z Polską, podczas wycieczek odbywanych zgodnie z zasadami pieszych wycieczek górskich o charakterze turystyczno-krajoznawczym.
 
-1. Celem ustanowienia GOT PTTK jest zachęcanie turystów do systematycznego poznawania gór Polski.
+#### § 3.
 
-2. GOT PTTK można zdobywać po ukończeniu 7. roku życia, przez odbycie pieszych wędrówek przede wszystkim w polskich górach a także w pasmach górskich Sudetów i Karpat, położonych na obszarach Republiki Federalnej Niemiec, Republiki Czeskiej, Republiki Słowackiej i Ukrainy. 
+Ustanawia się następujące rodzaje GOT PTTK:
 
-    Turysta odbywa wycieczki na własną odpowiedzialność, przy zachowaniu zasad bezpiecznego i racjonalnego uprawiania turystyki górskiej oraz przestrzegania przepisów dotyczących poruszania się po obszarach chronionych i w rejonach granicy państwowej.
+1. „W góry” – mającą trzy stopnie: brązowy, srebrny i złoty;
 
-    Zdobywanie GOT PTTK przez nieletnich powinno odbywać się w obecności dorosłych opiekunów lub osób przez nie upoważnionych, a trasy wycieczek górskich powinny być dostosowane do ich wieku i możliwości fizycznych.
+2. popularną – mającą jeden stopień;
 
-3. Wędrówki górskie zaliczane do GOT PTTK można odbywać przez cały rok chyba, że warunki terenowe i pogodowe ze względów bezpieczeństwa na to nie pozwalają.
+3. małą – mającą trzy stopnie: brązowy, srebrny i złoty;
 
-4. Punkty na wycieczkach po pasmach górskich Sudetów i Karpat położonych na obszarach krajów sąsiadujących z Polską mogą stanowić nie więcej niż 50 % norm niezbędnych do zdobycie GOT PTTK w stopniu małym. Popularną i duże stopnie GOT PTTK zdobywa się wyłącznie na terenach gór polskich.
+4. dużą – mającą trzy stopnie: brązowy, srebrny i złoty;
 
-### § 4.
+5. „Za wytrwałość” – mającą dwa stopnie: mały i duży.
 
-1. Ustanawia się cztery kategorie GOT PTTK: popularną, małą, dużą i „Za wytrwałość”.
+Turyści po ukończonym 7. roku życia pomijają zdobywanie odznaki GOT PTTK „W góry”.
 
-2. Odznaka popularna jest jednostopniowa.
+#### § 4.
 
-3. Odznaki małe i duże mają po trzy stopnie: brązowy, srebrny i złoty.
+Nadzór nad GOT PTTK sprawuje Komisja Turystyki Górskiej Zarządu Głównego PTTK.
 
-4. Odznaka „Za wytrwałość” ma dwa stopnie: mały i duży.
+#### § 5.
 
-### § 5.
+1. Turysta odbywa wycieczki na własną odpowiedzialność, przy zachowaniu zasad bezpiecznego i racjonalnego uprawiania turystyki górskiej oraz przestrzegania przepisów dotyczących poruszania się w obszarach chronionych i w rejonach granicy państwowej.
 
-1. GOT PTTK zdobywa się w kolejności: popularna, mała brązowa, mała srebrna, mała złota, duża brązowa, duża srebrna, duża złota, mała „Za wytrwałość”. Po kolejnym zdobyciu wszystkich poprzednio wymienionych kategorii i stopni odznaki (a zatem za powtórzenie cyklu od popularnej do małej „Za wytrwałość”) turysta nabywa prawo do noszenia dużej „Za wytrwałość”.
+2. Zdobywanie GOT PTTK przez małoletnich powinno odbywać się w obecności i na odpowiedzialność rodziców, prawnych opiekunów lub osób przez nich upoważnionych, albo innych osób, które z mocy prawa są uprawnione do sprawowania nad nimi opieki. Trasy wycieczek górskich powinny być dostosowane do wieku małoletnich i ich możliwości fizycznych oraz warunków pogodowych, a decyzję, co do trasy wycieczki podejmuje rodzic lub opiekun na swoją odpowiedzialność.
 
-2. W jednym roku kalendarzowym można zdobyć tylko jeden stopień GOT PTTK, z wyjątkiem stopnia popularnego i małego brązowego, które mogą być zdobyte w tym samym roku.
+3. Wycieczki zaliczane do GOT PTTK można odbywać przez cały rok kalendarzowy chyba, że warunki terenowe lub pogodowe ze względów bezpieczeństwa na to nie pozwalają.
 
-3. Wszystkie kategorie i stopnie GOT PTTK nie muszą być zdobywane w bezpośrednio po sobie następujących latach i można je zdobywać również ratalnie. Czas zdobywania poszczególnych stopni odznaki nie jest ograniczony. Książeczkę GOT PTTK należy przedłożyć do weryfikacji po spełnieniu wymogów na dany stopień lub normy do odznaki „Za wytrwałość”.
+#### § 6.
 
-### § 6.
+Punktacja wycieczek do GOT PTTK jest oparta na następujących zasadach:
 
-GOT PTTK popularną oraz małe zdobywa się według następujących zasad:
+1. Jeżeli trasa wycieczki jest ujęta w „Trasach punktowanych do GOT PTTK” to należy stosować podaną tam punktację.
 
-1. Zalicza się jeden punkt za każdy przebyty kilometr oraz 1 punkt za każde 100 metrów sumy podejść (zaokrąglenie w górę do jednego punktu przy minimum 51 m sumy podejść lub ponad 500 m przebytej trasy). Jeżeli wycieczka jest ujęta w „Trasach punktowanych do GOT PTTK” stanowiących załącznik do niniejszego regulaminu, to należy stosować podaną tam punktację.
+2. Jeżeli trasa wycieczki nie jest ujęta w „Trasach punktowanych do GOT PTTK”, to przyznaje się jeden punkt za każdy przebyty kilometr oraz jeden punkt za każde pokonane 100 m sumy różnic poziomów przy podejściach (zaokrąglenie w górę do jednego punktu przy minimum 51 m sumy podejść lub ponad 500 m przebytej trasy).
 
-2. Ustala się następujące liczby punktów koniecznych do zdobycia popularnej lub poszczególnych stopni małych GOT PTTK:
-    - popularna 60 punktów,
-    - mała brązowa 120 punktów,
-    - mała srebrna 360 punktów,
-    - mała złota 720 punktów.
+3. Maksymalna norma zaliczana do GOT PTTK na dziennej trasie wycieczkowej wynosi 50 punktów regulaminowych, a dla odznaki GOT PTTK „W góry” – 15 punktów. Przy ustalaniu dziennych tras wycieczkowych należy również przestrzegać zasad zawartych w § 5 pkt 2.
 
-    Wszystkie osoby z legitymacją osoby niepełnosprawnej mają normy na poszczególne stopnie obniżone o 25%, a wynoszą one:
-    - popularna 45 punktów,
-    - mała brązowa 90 punktów,
-    - mała srebrna 270 punktów,
-    - mała złota 540 punktów.
+4. Nie zalicza się punktów uzyskanych na wycieczkach przebytych tą samą trasą i w tym samym kierunku w toku zdobywania tego samego stopnia GOT PTTK.
 
-3. Nie zalicza się punktów uzyskanych na wycieczce odbytej tą samą trasą i w tym samym kierunku w toku zdobywania tego samego stopnia odznaki.
+#### § 7.
 
-4. Nadwyżkę punktów uzyskaną przy zdobywaniu odznaki popularnej i poszczególnych stopni małej GOT PTTK można zaliczyć do kolejnego stopnia małej odznaki w wysokości nie przekraczającej 25% potrzebnej do zdobycia normy.
+1. GOT PTTK można zdobywać po rozpoczęciu 5. roku życia podczas pieszych wędrówek na terenie gór polskich, w pasmach Sudetów i Karpat położonych na terenach Republiki Federalnej Niemiec, Republiki Czeskiej, Republiki Słowackiej i Ukrainy.
 
-5. Wycieczki związane ze zdobyciem małej srebrnej GOT PTTK należy odbyć co najmniej w dwóch, a małej złotej GOT PTTK co najmniej w trzech pasmach górskich wybranych spośród 46 pasm wykazu w załączniku do niniejszego regulaminu, zamieszczonego przy mapkach tras punktowanych do GOT PTTK: T.01 do T.03, BZ.01 do BZ.12, BW.01 do BW.05, S.01 do S.21 lub Ł.01 do Ł.05. Nie określa się procentowej ilości punktów w poszczególnych pasmach górskich przy zdobywaniu małej srebrnej lub małej złotej GOT PTTK pamiętając o wymogach § 3 pkt 4 niniejszego regulaminu. Przy zdobywaniu tych stopni na wycieczkach po terenach Sudetów lub Karpat w krajach sąsiadujących z Polską zalicza się je, jako odbyte w jednym paśmie górskim.
+2. Punkty uzyskane na wycieczkach odbytych w pasmach Sudetów i Karpat położonych na obszarach krajów sąsiadujących z Polską nie mogą stanowić więcej niż 50 % punktów niezbędnych do zdobycia popularnego i małych stopni GOT PTTK. Ograniczeń tych nie stosuje się przy zdobywaniu odznaki GOT PTTK „W góry”, norm do odznaki „Za wytrwałość” oraz podczas zdobywania popularnej i małych stopni odznaki podczas powtórnego i kolejnych cyklów zdobywania GOT PTTK.
 
-6. Trasy punktowane do GOT PTTK przebiegające poza szlakami turystycznymi przez tereny prawnie chronione objęte zakazem schodzenia ze szlaku, mogą być zaliczone do zdobywania odznak wyłącznie po uzyskaniu pisemnej zgody gestorów tych terenów.
+#### § 8.
 
-### § 7.
+1. W jednym roku kalendarzowym można zdobyć tylko jeden stopień GOT PTTK lub jedną normę do odznaki „Za wytrwałość”, z wyjątkiem GOT PTTK popularnej i małej brązowej, które mogą być zdobyte w tym samym roku.
 
-Poszczególne stopnie GOT PTTK dużych: brązowej, srebrnej i złotej zdobywa się według poniższych zasad.
+2. Poszczególne rodzaje i stopnie GOT PTTK nie muszą być zdobywane w bezpośrednio po sobie następujących latach. Czas zdobywania poszczególnych rodzajów i stopni odznaki nie jest ograniczony.
 
-1. Ustala się następujące grupy górskie, na terenie których należy odbyć regulaminowe wycieczki wielodniowe (załącznik do niniejszego regulaminu):
+3. Kolejne cykle zdobywania GOT PTTK, począwszy od stopnia popularnego, można zacząć zdobywać najwcześniej w następnym roku po uzyskaniu i zweryfikowaniu ostatniego stopnia kończącego poprzedni cykl zdobywania odznaki. Nie można uzyskiwać GOT PTTK w równolegle prowadzonych różnych cyklach zdobywania odznaki.
+
+#### § 9.
+
+1. Do dokumentowania zdobywania GOT PTTK służy książeczka GOT PTTK.
+
+2. Wzór książeczki GOT PTTK określa Komisja Turystyki Górskiej ZG PTTK. Wyłączne prawa wydawnicze do książeczki, regulaminu, a także wykonawstwa odznak zastrzeżone są dla Centralnego Ośrodka Turystyki Górskiej PTTK w Krakowie.
+
+### II. GOT PTTK „W GÓRY”
+
+#### § 10.
+
+1. GOT PTTK „W góry” ma zachęcać najmłodszych turystów do uprawiania turystyki górskiej, poznawania polskich gór, a następnie do zdobywania dalszych rodzajów i stopni GOT PTTK.
+
+2. GOT PTTK „W góry” można zdobywać po rozpoczęciu 5. roku życia i do ukończenia 7. roku życia.
+
+#### § 11.
+
+1. GOT PTTK „W góry” ma trzy stopnie: brązowy, srebrny i złoty. W jednym roku kalendarzowym można zdobyć tylko jeden stopień odznaki, a kolejne jej stopnie nie muszą być zdobywane w bezpośrednio po sobie następujących latach.
+
+2. Przy zdobywaniu GOT PTTK „W góry” należy korzystać z punktacji tras górskich zawartej w wykazie „Tras punktowanych do GOT PTTK”.
+
+3. Ustala się następujące normy punktów koniecznych do zdobycia poszczególnych stopni GOT PTTK „W góry”:
+    - brązowy 15 punktów;
+    - srebrny 30 punktów;
+    - złoty 45 punktów.
+    
+    Maksymalna norma zaliczana do GOT PTTK „W góry” na dziennej trasie wycieczkowej wynosi 15 punktów.
+
+4. Nadwyżek uzyskanych punktów nie zalicza się na poczet zdobywania kolejnego stopnia odznaki.
+
+5. Nie zalicza się punktów uzyskanych na wycieczkach odbytych tą samą trasą i w tym samym kierunku w toku zdobywania wszystkich trzech stopni GOT PTTK „W góry”.
+
+### III. GOT PTTK POPULARNA I MAŁA
+
+#### § 12.
+
+1. GOT PTTK popularną można zdobywać po ukończeniu 7. roku życia.
+
+2. Ustala się następujące ilości punktów koniecznych do zdobycia poszczególnych stopni popularnego oraz małych GOT PTTK:
+    - popularny 60 punktów,
+    - mały brązowy 120 punktów,
+    - mały srebrny 360 punktów,
+    - mały złoty 720 punktów.
+
+    Turyści niepełnosprawni mogą skorzystać przy ich zdobywaniu z norm pomniejszonych o 25%, tj. odpowiednio 45, 90, 270 i 540 punktów.
+
+3. GOT PTTK w stopniach popularnym i małym brązowym można zdobyć w jednym roku kalendarzowym (por. § 8 pkt 1) pod warunkiem uzyskania co najmniej 180 (niepełnosprawni 135) punktów.
+
+4. Przy weryfikacjach odznak w stopniach popularnym, małym brązowym lub małym srebrnym GOT PTTK można na poczet następnego małego stopnia odznaki zaliczyć nadwyżkę uzyskanych punktów do wysokości 50% normy potrzebnej do jego zdobycia.
+
+### IV. GOT PTTK DUŻA
+
+#### § 13.
+
+1. Dużą GOT PTTK można zdobywać w następnym roku po zdobyciu GOT PTTK w stopniu małym złotym i jego zweryfikowaniu za ten okres.
+
+2. Poszczególne stopnie dużej GOT PTTK zdobywa się odbywając regulaminowe wycieczki wielodniowe w następujących terenach górskich (załącznik nr 1 do niniejszego regulaminu):
     - I. Beskidy – część zachodnia „BZ–A”,
     - II. Beskidy – część zachodnia „BZ–B”,
     - III. Beskidy – część wschodnia „BW–A”,
@@ -88,108 +135,116 @@ Poszczególne stopnie GOT PTTK dużych: brązowej, srebrnej i złotej zdobywa si
     - V. Sudety – część „S–A”,
     - VI. Sudety – część „S–B”.
 
-2. Każda z wymienionych grup górskich ma podane w załączniku do regulaminu GOT PTTK - do wyboru przez turystów - punkty wyjściowe, pośrednie i końcowe.
+3. Dużą GOT PTTK w stopniu brązowym zdobywa się przez odbycie dwóch regulaminowych wycieczek wielodniowych w dwóch wybranych terenach górskich I-VI.
 
-3. Trasa regulaminowej wycieczki w każdej z grup I–VI, trwającej minimum 7 dni (bez wliczania ewentualnych przerw), musi przebiegać w formie ciągłej od punktu początkowego do punktu końcowego przez przynajmniej 7 punktów pośrednich wybranych z wykazu przypisanych dla danej grupy górskiej.
+4. Dużą GOT PTTK w stopniu srebrnym zdobywa się przez odbycie dwóch regulaminowych wycieczek wielodniowych w dwóch wybranych terenach górskich I–VI, z pominięciem wybranych przy zdobywaniu dużej GOT PTTK w stopniu brązowym.
 
-    Kierunek przejścia trasy jest dowolny, punkty początkowe zawarte w wykazie mogą być punktami końcowymi, a wówczas końcowe są początkowymi. Trasa powinna być przebyta pieszo bez korzystania z przejazdów środkami komunikacji. Dopuszcza się możliwość przebycia trasy w dwóch ratach (co najmniej 4-dniowych, łącznie minimum 8 dni) zrealizowanych w czasie maksimum dwunastu miesięcy, z zachowaniem ciągłości trasy w terenie.
+    Dodatkowo należy zdobyć 100 punktów w Górach Świętokrzyskich.
 
-4. GOT PTTK dużą w stopniu brązowym zdobywa się przez odbycie dwóch regulaminowych wycieczek wielodniowych w dwóch różnych grupach górskich wybranych z grup I–VI.
+5. Dużą GOT PTTK w stopniu złotym zdobywa się przez odbycie dwóch regulaminowych wycieczek wielodniowych w dwóch pozostałych terenach górskich I–VI.
 
-5. GOT PTTK dużą w stopniu srebrnym zdobywa się przez odbycie dwóch regulaminowych wycieczek wielodniowych w kolejnych dwóch różnych grupach górskich z grup I–VI z pominięciem grup wybranych przy zdobywaniu GOT PTTK w stopniu dużym brązowym.
+    Dodatkowo należy zdobyć w polskich Tatrach i na Podtatrzu 150 punktów, w tym co najmniej 60 punktów w Tatrach Zachodnich, co najmniej 60 punktów w Tatrach Wysokich i co najmniej 30 punktów na Podtatrzu.
 
-    Dodatkowo należy zdobyć 100 punktów na wycieczkach wybranych ze spisu „Tras punktowanych do GOT PTTK” w Górach Świętokrzyskich.
+6. Każdy z wymienionych w § 13 pkt 2 terenów górskich ma podane w załączniku nr 1 do niniejszego regulaminu – do wyboru przez turystów – punkty początkowe, pośrednie i końcowe.
 
-6. GOT PTTK dużą w stopniu złotym zdobywa się przez odbycie dwóch regulaminowych wycieczek wielodniowych w kolejnych dwóch różnych grupach górskich z grup I–VI, z pominięciem grup wybranych przy zdobywaniu GOT PTTK w stopniach dużych brązowym i srebrnym.
+7. Trasa regulaminowej wycieczki wielodniowej na wszystkie stopnie dużej GOT PTTK w każdym z terenów I-VI, musi trwać minimum 7 dni (bez wliczania ewentualnych przerw wynikających z warunków pogodowych) i przebiegać w formie ciągłej od punktu początkowego do punktu końcowego przez co najmniej 7 punktów pośrednich wybranych z wykazu, a przypisanych dla danego terenu górskiego. Zaliczenie regulaminowego punktu pośredniego następuje wtedy, gdy trasa wycieczki przebiega przez ten punkt lub omija go w bliskiej odległości. Kierunek przejścia całej trasy jest dowolny, punkty początkowe w wykazie mogą być punktami końcowymi i na odwrót. Trasa powinna być przebyta pieszo bez korzystania z przejazdów środkami komunikacji. Dopuszcza się możliwość przebycia trasy w dwóch ratach (co najmniej 4-dniowych, łącznie minimum 8 dni) zrealizowanych w czasie maksimum dwunastu miesięcy, z zachowaniem jej ciągłości w terenie.
 
-    Dodatkowo należy zdobyć co najmniej 150 punktów na wycieczkach wybranych ze spisu „Tras punktowanych do GOT PTTK” w polskich Tatrach i na Podtatrzu, w tym co najmniej 60 punktów w Tatrach Zachodnich, co najmniej 60 punktów w Tatrach Wysokich i co najmniej 30 punktów na Podtatrzu.
+8. Zdobywanie kolejnych stopni dużej GOT PTTK można rozpocząć dopiero w następnym roku po zdobyciu poprzedniego stopnia dużej GOT PTTK i jego zweryfikowaniu za ten okres.
 
-### § 8.
+9. Przy zdobywaniu dużej GOT PTTK w stopniach srebrnym i złotym kolejność spełniania wymagań związanych z odbyciem regulaminowych wycieczek wielodniowych w terenach górskich I-VI oraz w Górach Świętokrzyskich, w polskich Tatrach i na Podtatrzu jest dowolna.
 
-GOT PTTK małą w kategorii „Za wytrwałość” zdobywa się według następujących zasad:
+### V. GOT PTTK „ZA WYTRWAŁOŚĆ”
 
-1. Posiadacz dużej złotej GOT PTTK musi spełnić siedmiokrotnie wymogi przyznania któregokolwiek stopnia małej GOT PTTK, bez konieczności spełnienia wymogów § 3 pkt 4 niniejszego regulaminu.
+#### § 14.
 
-2. Każda z siedmiu uzyskanych norm na GOT PTTK małą „Za wytrwałość” wymaga zweryfikowania przez Centralny Referat Weryfikacyjny GOT PTTK w Krakowie najpóźniej do 31 stycznia następnego roku po jej uzyskaniu.
+GOT PTTK „Za wytrwałość” jest wyróżnieniem za wieloletnie zdobywanie odznak GOT PTTK i posiada dwa stopnie: mały i duży.
 
-3. Spełnienie tych wymogów musi być stwierdzone przez Centralny Referat Weryfikacyjny GOT PTTK w trybie odrębnej weryfikacji odznaki, przy czym w ciągu jednego roku można spełnić tylko jedną normę.
+#### § 15.
 
-4. GOT PTTK mała „Za wytrwałość” może być zdobywana tylko jednokrotnie podczas każdego cyklu zdobywania odznaki. Osoba chcąca uzyskać powtórnie GOT PTTK małą „Za wytrwałość” musi zdobyć ponownie wszystkie kategorie i stopnie odznaki począwszy od popularnej i spełnić warunki czasowe ich zdobywania.
+GOT PTTK „Za wytrwałość” w stopniu małym zdobywa się według następujących zasad:
 
-5. Osoba, która dwukrotnie zweryfikowała GOT PTTK małą „Za wytrwałość” ma prawo wystąpić do Centralnego Referatu Weryfikacyjnego GOT PTTK w Krakowie – po udokumentowaniu dwukrotnego zweryfikowania GOT PTTK małej „Za wytrwałość” – o przyznanie GOT PTTK dużej „Za wytrwałość”.
+1. Posiadacz dużego złotego stopnia GOT PTTK musi uzyskać siedmiokrotnie, a posiadacz małego złotego stopnia GOT PTTK dziesięciokrotnie normę konieczną do zdobycia któregokolwiek małego stopnia GOT PTTK.
 
-### § 9.
+2. Jeśli posiadacz małego złotego stopnia GOT PTTK, który zdobywa którąkolwiek normę do odznaki „Za wytrwałość” chce zdobyć duże stopnie GOT PTTK, to zgodnie z § 8 pkt 1 regulaminu nie może równocześnie w latach ich zdobywania uzyskiwać norm do GOT PTTK „Za wytrwałość”.
 
-1. Do potwierdzania i weryfikacji książeczek GOT PTTK upoważnieni są – w zakresie posiadanych uprawnień – wyłącznie przodownicy turystyki górskiej PTTK mianowani przez Komisję Turystyki Górskiej ZG PTTK według odrębnego regulaminu.
+3. Nadwyżek punktów nie zalicza się do kolejnej zdobywanej normy.
 
-2. O uprawnienia przodownika turystyki górskiej PTTK może ubiegać się posiadacz co najmniej małej złotej GOT PTTK po spełnieniu regulaminowych warunków mianowania.
+#### § 16.
 
-3. Uprawnienia przodownika turystyki górskiej PTTK nadaje się na następujące tereny górskie: Tatry, Beskidy Zachodnie, Beskidy Wschodnie, Sudety i Góry Świętokrzyskie (granica między Beskidami Zachodnimi a Wschodnimi przebiegająca od Przełęczy Tylickiej do Tarnowa jest umowna dla potrzeb regulaminu GOT PTTK).
+GOT PTTK „Za wytrwałość” w stopniu dużym może zdobywać turysta posiadający małą GOT PTTK „Za wytrwałość” według następujących zasad:
 
-4. Do potwierdzania punktów zdobytych w pasmach górskich Sudetów i Karpat położonych w krajach sąsiadujących z Polską, o których mowa w § 3 niniejszego regulaminu, uprawnieni są przodownicy turystyki górskiej PTTK posiadający uprawnienia na przylegające grupy górskie po stronie polskiej (patrz załącznik do regulaminu GOT PTTK).
+1. Posiadacz GOT PTTK „Za wytrwałość” w stopniu małym musi zdobyć w drugim cyklu powtórnie wszystkie rodzaje i stopnie GOT PTTK począwszy od popularnego do małego złotego lub dużego złotego oraz spełnić takie same warunki jak przy zdobywaniu GOT PTTK „Za wytrwałość” w stopniu małym (§ 15 pkt.1, 2 i 3).
 
-### § 10.
+2. Powtórne zdobywanie w drugim cyklu wszystkich stopni GOT PTTK w celu uzyskania dużego stopnia GOT PTTK „Za wytrwałość” można rozpocząć dopiero w następnym roku po zdobyciu i zweryfikowaniu za ten okres GOT PTTK „Za wytrwałość” w stopniu małym.
 
-1. Przyznanie GOT PTTK odbywa się na podstawie wypełnionej i potwierdzonej przez przodownika turystyki górskiej PTTK książeczki GOT PTTK.
+#### § 17.
 
-2. Wzór książeczki GOT PTTK określa Komisja Turystyki Górskiej ZG PTTK. Prawa wydawnicze do książeczki, regulaminu i wszystkich wzorów odznaki GOT PTTK zastrzeżone są dla Centralnego Ośrodka Turystyki Górskiej PTTK w Krakowie.
+1. Każda z siedmiu lub dziesięciu norm zdobytych do GOT PTTK „Za wytrwałość” w stopniach małym lub dużym wymaga zweryfikowania przez Terenowy Referat Weryfikacyjny GOT PTTK (w dalszej części regulaminu TRW GOT PTTK) lub Centralny Referat Weryfikacyjny GOT PTTK (w dalszej części regulaminu CRW GOT PTTK) najpóźniej do 31 stycznia następnego roku po jej uzyskaniu.
 
-### § 11.
+2. Zdobywający GOT PTTK „Za wytrwałość” po uzyskaniu dużego lub małego złotego stopnia GOT PTTK weryfikują normy od pierwszej do szóstej lub dziewiątej w TRW GOT PTTK lub w CRW GOT PTTK, natomiast ostatnią – siódmą lub dziesiątą normę, wyłącznie w CRW GOT PTTK w Krakowie, który przyznaje odznakę.
+
+### VI. DOKUMENTACJA GOT PTTK I WERYFIKACJA ODZNAK
+
+#### § 18. 
+
+1. Do potwierdzania odbycia wycieczek w książeczce GOT PTTK, upoważnieni są przodownicy turystyki górskiej PTTK.
+
+2. Przodownik turystyki górskiej PTTK jest uprawniony do potwierdzania odbycia wycieczek w zakresie posiadanych uprawnień na poszczególne grupy górskie, nawet jeśli nie był obecny na wycieczce, a poza zakresem swych uprawnień jeśli brał w niej udział.
+
+3. Przyznanie GOT PTTK odbywa się na podstawie wypełnionej przez zdobywającego i potwierdzonej przez przodownika turystyki górskiej PTTK książeczki GOT PTTK.
+
+#### § 19. 
 
 Książeczkę GOT PTTK należy wypełniać zgodnie z następującymi zasadami:
 
-1. W trakcie wycieczki należy zbierać w książeczce (na stronach przeznaczonych na potwierdzenia terenowe) potwierdzenia przejścia trasy pieczątkami dowolnych instytucji zawierającymi nazwę miejscowości albo obiektów terenowych (schronisk PTTK i in.). Potwierdzenie pieczątkami nie jest konieczne, jeśli przodownik turystyki górskiej PTTK lub przewodnik górski uczestniczy w wycieczce i stwierdzi to swoim czytelnym podpisem i numerem (w miarę możliwości także imienną pieczątką). Przodownicy turystyki górskiej PTTK są zwolnieni z obowiązku uzyskiwania potwierdzeń.
+1. W trakcie wycieczki należy zbierać w książeczce (na stronach na to przeznaczonych) potwierdzenia terenowe (z datami) z punktu początkowego, przejścia trasy oraz jej punktu końcowego, np. pieczątki zawierające nazwę miejscowości, schroniska PTTK i in. W przypadku braku możliwości uzyskania potwierdzeń terenowych można je zastąpić wydrukami fotografii z datą lub wydrukami zawierającymi dokumentację kartograficzną i informacje dotyczące przebytych tras, a uzyskanymi dzięki zastosowaniu aplikacji na urządzenia mobilne.
 
-2. Trasę wycieczki należy wpisać zgodnie z § 6 niniejszego regulaminu i przedłożyć przodownikowi turystyki górskiej PTTK do potwierdzenia. Przebieg wycieczki nie ujętej w „Trasach punktowanych do GOT PTTK” należy wpisać podając dokładnie jej przebieg, odległość w kilometrach, sumę podejść w pełnych setkach metrów. Przy ubieganiu się o wszystkie stopnie dużej GOT PTTK trasę wycieczki należy wpisać podkreślając punkty początkowe, pośrednie i końcowe, wybrane z zamieszczonych w załączniku do regulaminu GOT PTTK.
+2. Potwierdzenia nie są konieczne, jeśli przodownik turystyki górskiej PTTK lub przewodnik górski uczestniczył w wycieczce i stwierdzi to swoim podpisem oraz numerem legitymacji przodownickiej lub przewodnickiej, a w miarę możliwości także imienną pieczątką. Przewodnicy górscy potwierdzają swój udział w wycieczce na stronach potwierdzeń terenowych.
 
-3. Wycieczki odbywane w pasmach górskich Sudetów i Karpat krajów sąsiadujących z Polską, o których mowa w § 3, należy punktować według zasad określonych w § 6 pkt 1 niniejszego regulaminu.
+3. Trasę wycieczki należy wpisać do książeczki GOT PTTK w odcinkach dziennych stosując punktację zgodnie z § 6 niniejszego regulaminu. Przebieg wycieczki nie ujętej w „Trasach punktowanych do GOT PTTK” należy wpisać podając przebyte odcinki dzienne oraz ich długość w kilometrach i sumę różnic poziomów przy podejściach w pełnych setkach metrów. Następnie należy przedłożyć książeczkę GOT PTTK przodownikowi turystyki górskiej PTTK.
 
-4. Przodownik turystyki górskiej PTTK sprawdza odbycie wycieczki i właściwe jej wpisanie do książeczki oraz potwierdza to swoim podpisem (ewentualnie także imienną pieczątką) z podaniem numeru legitymacji przodownika.
+    Przy ubieganiu się o wszystkie stopnie GOT PTTK dużej, trasę regulaminowej wycieczki wielodniowej należy wpisać w odcinkach dziennych bez obliczania ich punktacji, a jedynie podkreślając punkty początkowe, pośrednie i końcowe, wybrane z wykazu, a przypisane dla danego terenu górskiego (zał. nr 1 do niniejszego regulaminu).
 
-5. Przodownik turystyki górskiej PTTK jest uprawniony do potwierdzania odbycia wycieczek:
-    - a) w zakresie posiadanych uprawnień na poszczególne grupy górskie, nawet jeśli nie był obecny na wycieczce;
-    - b) poza zakresem swych uprawnień terenowych, jeśli sam brał udział w wycieczce.
+4. Wycieczki odbywane w krajach sąsiadujących z Polską (§ 7 pkt 1), należy punktować według zasad określonych w § 6 pkt. 2 niniejszego regulaminu. Dla tras w terenach, które mają punktację, zamieszczoną na stronie internetowej www.cotg.pttk.pl, należy stosować podane tam wielkości.
 
-### § 12.
+#### § 20.
 
-Ubiegający się o GOT PTTK popularną i małe przedstawiają książeczkę do weryfikacji dowolnemu Terenowemu Referatowi Weryfikacyjnemu GOT PTTK, zaś ubiegający się o GOT PTTK duże i „Za wytrwałość” – Centralnemu Referatowi Weryfikacyjnemu GOT PTTK: 31-010 Kraków, ul. Jagiellońska 6/6a. Do książeczki należy załączyć potwierdzenie zweryfikowania ostatniego stopnia odznaki. Książeczkę należy złożyć do weryfikacji najpóźniej do 31 stycznia następnego roku po roku, w którym uzyskano normę na dany stopień odznaki. Ubiegający się o odznaki duże lub normy do GOT PTTK małej lub dużej „Za wytrwałość” ponoszą koszty opłat pocztowych związanych z korespondencją oraz wysyłką książeczek i ew. odznak.
+1. Uprawnienia przodownika turystyki górskiej PTTK nadawane są na następujące tereny: Tatry, Beskidy Zachodnie, Beskidy Wschodnie, Sudety i Góry Świętokrzyskie (granica między Beskidami Zachodnimi a Wschodnimi przebiegająca od Przełęczy Tylickiej do Tarnowa jest umowna dla potrzeb GOT PTTK).
 
-### § 13.
+2. Do potwierdzania punktów zdobytych w krajach sąsiadujących z Polską (§ 7 pkt 1) upoważnieni są przodownicy turystyki górskiej PTTK posiadający uprawnienia na przylegające grupy górskie po stronie polskiej (zał. nr 2 do niniejszego regulaminu). Odbywający wycieczki do GOT PTTK po tych terenach powinni przedstawić przodownikowi turystyki górskiej PTTK do wglądu mapy, na których będzie mógł sprawdzić prawidłowość punktacji przebytych tras.
 
-1. Zweryfikowana książeczka GOT PTTK jest zarazem legitymacją posiadanego stopnia odznaki i uprawnia do jej nabycia i noszenia.
+3. Przodownik turystyki górskiej PTTK sprawdza odbycie wycieczki i właściwe jej wpisanie do książeczki GOT PTTK oraz potwierdza to swoim podpisem z podaniem numeru legitymacji przodownika, a w miarę możliwości także imienną pieczątką.
 
-2. Odznaki popularne, małe i duże nabywa się w oddziałach PTTK za okazaniem zweryfikowanej książeczki GOT PTTK, natomiast odznaki „Za wytrwałość” (również odznaki pozostałych kategorii i stopni) – za okazaniem zweryfikowanej książeczki – w Centralnym Ośrodku Turystyki Górskiej PTTK w Krakowie.
+#### § 21.
 
-### § 14.
+1. Ubiegający się o poszczególne rodzaje i stopnie GOT PTTK „W góry”, popularną i małe oraz normy do odznaki „Za wytrwałość” (z wyjątkiem ostatnich norm), przedstawiają książeczkę do weryfikacji dowolnemu TRW GOT PTTK (wykaz TRW GOT PTTK jest podany w książeczce i regulaminie GOT PTTK, a aktualny na stronie internetowej Komisji Turystyki Górskiej Zarządu Głównego PTTK – www.ktg.pttk.pl) lub do CRW GOT PTTK w Krakowie.
 
-Przekazane na piśmie na adres pocztowy KTG ZG PTTK, 31-010 Kraków, ul. Jagiellońska 6/6a lub na adres internetowy poczta@ktg.pttk.pl, wątpliwości mogące wyniknąć z interpretacji niniejszego regulaminu rozstrzyga Komisja Turystyki Górskiej ZG PTTK. Ważniejsze interpretacje są publikowane na stronie internetowej Komisji: www.ktg.pttk.pl.
+2. Ubiegający się o GOT PTTK w stopniach dużych i odznaki „Za wytrwałość” (ostatnie wymagane normy) przedstawiają książeczkę do weryfikacji CRW GOT PTTK: ul. Jagiellońska 6/6a , 31-010 Kraków. Do książeczki należy załączyć potwierdzenie zweryfikowania ostatniego zdobytego stopnia odznaki lub ostatniej normy do GOT PTTK „Za wytrwałość”.
 
-### § 15.
+3. Jeśli zdobywający odznaki mieszka poza siedzibą TRW GOT PTTK to może książeczkę przesłać do weryfikacji do CRW GOT PTTK w Krakowie (§ 21 pkt.2).
 
-Regulamin niniejszy, uchwalony został na posiedzeniu Komisji Turystyki Górskiej ZG PTTK w dniu 5 lipca 2008 r. i znowelizowany w dniu 12 października 2013 r., zatwierdzony w dniu 13 grudnia 2013 roku uchwałą nr 8/XVIII/2013 Prezydium Zarządu Głównego PTTK, a obowiązuje od dnia 1 stycznia 2014 r.
+4. Korzystający przy weryfikacji GOT PTTK z drogi pocztowej ponoszą koszty związane ze zwrotem zweryfikowanych książeczek GOT PTTK i ewentualnie zamówionych odznak.
 
-# Przepisy przejściowe
+5. Książeczkę GOT PTTK należy przedłożyć do weryfikacji po spełnieniu wymogów na dany stopień odznaki lub po uzyskaniu każdej normy zaliczanej do GOT PTTK „Za wytrwałość” najpóźniej do 31 stycznia następnego roku, po roku w którym je spełniono.
 
-1. Wszystkie kategorie i stopnie GOT PTTK zdobyte do dnia 31 grudnia 2013 r. i zweryfikowane przed dniem 31 stycznia 2014 r. zachowują swoją ważność.
+#### § 22.
 
-2. Osobom zdobywającym ratalnie popularną lub małe GOT PTTK zalicza się punkty zdobyte do końca 2013 r. mimo, że może to nie spełniać warunków określonych w § 3 pkt 4 znowelizowanego regulaminu.
+Zweryfikowana książeczka GOT PTTK jest legitymacją, która uprawnia do nabycia i noszenia odznak.
 
-3. Osobom zdobywającym ratalnie duże stopnie GOT PTTK zalicza się wycieczki wielodniowe odbyte do 31 grudnia 2013 r.
+### VII. PRZEPISY KOŃCOWE
 
-4. Osoby posiadające GOT PTTK dużą w stopniu brązowym, przy zdobywaniu odznaki dużej srebrnej powinny dostosować trasy regulaminowych wycieczek wielodniowych do wymogów znowelizowanego regulaminu. Należy ją zdobywać poza terenami z grup górskich I-VI, w których uzyskano normę na stopień duży brązowy GOT PTTK.
+#### § 23. 
 
-5. Osoby posiadające GOT PTTK dużą w stopniu srebrnym, przy zdobywaniu odznaki dużej złotej powinny dostosować trasy regulaminowych wycieczek wielodniowych do wymogów znowelizowanego regulaminu. Należy ją zdobywać poza terenami z grup górskich I-VI, w których uzyskano normy na stopnie: duża brązowa i duża srebrna GOT PTTK.
+Odznaki GOT PTTK „W góry”, popularną, małe i duże nabywa się w oddziałach PTTK, za okazaniem zweryfikowanej książeczki GOT PTTK. Wszystkie rodzaje odznak GOT PTTK można nabyć za okazaniem zweryfikowanej książeczki, osobiście lub listownie, w Centralnym Ośrodku Turystyki Górskiej PTTK, ul. Jagiellońska 6/6a, 31-010 Kraków (tel. 12 422 28 40).
 
-6. Osoby, które rozpoczęły zdobywanie GOT PTTK małej „Za wytrwałość” po zdobyciu małej złotej GOT PTTK, wg Regulaminu GOT PTTK obowiązującego do 31 grudnia 2013 r. i mają zweryfikowaną co najmniej jedną normę, mogą kontynuować jej zdobywanie na dotychczasowych zasadach, bez konieczności zdobycia dużych stopni GOT PTTK.
+#### § 24. 
 
-7. Osoby, które rozpoczęły zdobywanie GOT PTTK dużej „Za wytrwałość” po zdobyciu uprzednio GOT PTTK małej „Za wytrwałość” i mają zweryfikowaną w drugim cyklu małą złotą GOT PTTK, mogą wybrać zasady zawarte w znowelizowanym Regulaminie GOT PTTK lub kontynuować jej zdobywanie na dotychczasowych zasadach, bez konieczności zdobycia dużych stopni GOT PTTK.
+Przekazane na piśmie na adres pocztowy KTG ZG PTTK, ul. Jagiellońska 6/6a, 31-010 Kraków lub na adres internetowy poczta@ktg.pttk.pl, pytania i wątpliwości mogące wyniknąć z interpretacji niniejszego regulaminu, rozstrzyga Komisja Turystyki Górskiej ZG PTTK. Ważniejsze interpretacje do regulaminu GOT PTTK będą publikowane na stronie internetowej Komisji: www.ktg.pttk.pl.
 
-8. Znowelizowany Regulamin GOT PTTK jest ogłoszony na stronie internetowej Komisji Turystyki Górskiej ZG PTTK: www.ktg.pttk.pl i obowiązuje od dnia 1 stycznia 2014 roku.
+#### § 25. 
 
-9. Ze względu na konieczną korektę punktacji wycieczek, regulamin ukaże się drukiem w pierwszej połowie 2014 r. W r. 2014 dopuszcza się stosowanie przez zdobywających GOT PTTK również punktacji zamieszczonej w Regulaminie GOT PTTK obowiązującym do 31 grudnia 2013 r.
+Regulamin GOT PTTK został uchwalony przez Komisję Turystyki Górskiej ZG PTTK uchwałą nr 20/XIX/2015 w dniu 19.9.2015 r. i zatwierdzony uchwałą nr 70/XVIII/2015 Prezydium Zarządu Głównego PTTK w dniu 1.12.2015 r.
 
-10. Osoby aktualnie zdobywające ratalnie popularną lub małe stopnie GOT PTTK stosują punktację wg Regulaminu GOT PTTK obowiązującego do 31 grudnia 2013 r. dla wycieczek wpisywanych do książeczki GOT PTTK za okres do 2013 r. włącznie.
+#### § 26. 
 
-11. W przypadku wątpliwości przy interpretacji przepisów zdobywania GOT PTTK prosimy o skorzystanie z § 14 znowelizowanego Regulaminu GOT PTTK.
-
-Zmienione przepisy przejściowe oraz zapisy w „Wykazie punktów początkowych, pośrednich i końcowych dla regulaminowych wycieczek wielodniowych na duże stopnie GOT PTTK” (część V i VI), przyjęte uchwałą nr 51/XVIII/2014 Komisji Turystyki Górskiej ZG PTTK 8 lutego 2014 r., zostały zatwierdzone uchwałą nr 15/XVIII/2014 Prezydium Zarządu Głównego PTTK 12 lutego 2014 r.
+Niniejszy regulamin Górskiej Odznaki Turystycznej PTTK obowiązuje od dnia 1 stycznia 2016 r. Przepisy przejściowe stanowią załącznik nr 3 do niniejszego regulaminu.
